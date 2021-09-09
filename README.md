@@ -1,2 +1,3 @@
 # Z2PolynomialFactor
 A Program in c++ to do the factorization of polynomials in Z2 ( GF(2) )
+It use binaries as a representation for polynomials and Berlekamp factorization algorithm.
